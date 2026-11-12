@@ -1,3 +1,2 @@
 # Hello-World!
-Hello
-QWoeld
+Hello World
